@@ -1,3 +1,3 @@
-# Example Package Alternatives
+# Examples of Package Alternatives
 
-- [`isomorphic-fetch` to `cross-fetch`](./isomorphic-fetch_to_cross-fetch)
+- [`isomorphic-fetch` -> `cross-fetch`](./isomorphic-fetch_to_cross-fetch)
