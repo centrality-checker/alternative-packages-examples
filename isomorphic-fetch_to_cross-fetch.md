@@ -1,10 +1,10 @@
 # `isomorphic-fetch` -> `cross-fetch`
 
-The following figure compares the centrality ranking of the package `isomorphic-fetch` to the centrality ranking of `cross-fetch` over time.
+The following figure compares the centrality ranking of the package `isomorphic-fetch` to the centrality ranking of the package `cross-fetch` over time.
 
 ![compare the centrality ranking of the package isomorphic-fetch to the package cross-fetch](./figs/isomorphic-fetch_cross-fetch.png)
 
-## Example of pull requests
+## Examples of pull requests
 
 The following are examples of pull requests that perform a dependency migration from the package `isomorphic-fetch` to the package `cross-fetch`:
 
