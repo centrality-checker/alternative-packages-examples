@@ -1,12 +1,12 @@
 # [`isomorphic-fetch`](https://www.npmjs.com/package/isomorphic-fetch) -> [`cross-fetch`](https://www.npmjs.com/package/cross-fetch)
 
-The following figure compares the centrality ranking of the package [`isomorphic-fetch`](https://www.npmjs.com/package/isomorphic-fetch) to the centrality ranking of the package [`cross-fetch`](https://www.npmjs.com/package/cross-fetch) over time.
+The following figure compares the over time centrality ranking of [`isomorphic-fetch`](https://www.npmjs.com/package/isomorphic-fetch) and [`cross-fetch`](https://www.npmjs.com/package/cross-fetch).
 
-![compare the centrality ranking of the package isomorphic-fetch to the package cross-fetch](./figs/isomorphic-fetch_cross-fetch.png)
+![the centrality of isomorphic-fetch and cross-fetch](./figs/isomorphic-fetch_cross-fetch.png)
 
 ## Examples of pull requests
 
-The following are examples of pull requests that perform a dependency migration from the package [`isomorphic-fetch`](https://www.npmjs.com/package/isomorphic-fetch) to the package [`cross-fetch`](https://www.npmjs.com/package/cross-fetch):
+The following are examples of pull requests that perform a dependency migration from [`isomorphic-fetch`](https://www.npmjs.com/package/isomorphic-fetch) to [`cross-fetch`](https://www.npmjs.com/package/cross-fetch):
 
 - [apollographql/apollo-fetch#71](https://github.com/apollographql/apollo-fetch/pull/71)
 - [Soluto/tweek-clients#76](https://github.com/Soluto/tweek-clients/pull/76)
