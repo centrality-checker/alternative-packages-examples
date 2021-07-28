@@ -2,9 +2,9 @@
 
 The following figure compares the over time centrality ranking of [`isomorphic-fetch`](https://www.npmjs.com/package/isomorphic-fetch) and [`cross-fetch`](https://www.npmjs.com/package/cross-fetch).
 
-![the centrality of isomorphic-fetch and cross-fetch](./figs/isomorphic-fetch_cross-fetch.png)
+![the centrality of isomorphic-fetch and cross-fetch](../figs/isomorphic-fetch_cross-fetch.png)
 
-## Examples of pull requests
+## Pull request examples
 
 The following are examples of pull requests that perform a dependency migration from [`isomorphic-fetch`](https://www.npmjs.com/package/isomorphic-fetch) to [`cross-fetch`](https://www.npmjs.com/package/cross-fetch):
 
@@ -13,7 +13,6 @@ The following are examples of pull requests that perform a dependency migration 
 - [thorgate/tg-resources#38](https://github.com/thorgate/tg-resources/pull/38)
 - [cube-js/cube.js#92](https://github.com/cube-js/cube.js/pull/92)
 - [callemall/material-ui#19644](https://github.com/callemall/material-ui/pull/19644)
-- [facebook/fbjs#385](https://github.com/facebook/fbjs/pull/385)
 
 ## What is package centrality?
 
