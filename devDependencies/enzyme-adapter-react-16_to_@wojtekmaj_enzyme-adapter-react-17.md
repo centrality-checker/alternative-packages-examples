@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/enzyme-adapter-react-16) -> [`@wojtekmaj/enzyme-adapter-react-17`](https://www.npmjs.com/package/@wojtekmaj/enzyme-adapter-react-17)
+# [`enzyme-adapter-react-16`](https://www.npmjs.com/package/enzyme-adapter-react-16) -> [`@wojtekmaj/enzyme-adapter-react-17`](https://www.npmjs.com/package/@wojtekmaj/enzyme-adapter-react-17)
 
 The following figure compares the over time centrality ranking of [`enzyme-adapter-react-16`](https://www.npmjs.com/package/enzyme-adapter-react-16) and [`@wojtekmaj/enzyme-adapter-react-17`](https://www.npmjs.com/package/@wojtekmaj/enzyme-adapter-react-17).
 

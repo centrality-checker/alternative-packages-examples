@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/boom) -> [`@hapi/boom`](https://www.npmjs.com/package/@hapi/boom)
+# [`boom`](https://www.npmjs.com/package/boom) -> [`@hapi/boom`](https://www.npmjs.com/package/@hapi/boom)
 
 The following figure compares the over time centrality ranking of [`boom`](https://www.npmjs.com/package/boom) and [`@hapi/boom`](https://www.npmjs.com/package/@hapi/boom).
 

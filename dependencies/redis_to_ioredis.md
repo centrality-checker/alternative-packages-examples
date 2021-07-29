@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/redis) -> [`ioredis`](https://www.npmjs.com/package/ioredis)
+# [`redis`](https://www.npmjs.com/package/redis) -> [`ioredis`](https://www.npmjs.com/package/ioredis)
 
 The following figure compares the over time centrality ranking of [`redis`](https://www.npmjs.com/package/redis) and [`ioredis`](https://www.npmjs.com/package/ioredis).
 

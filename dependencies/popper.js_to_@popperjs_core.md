@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/popper.js) -> [`@popperjs/core`](https://www.npmjs.com/package/@popperjs/core)
+# [`popper.js`](https://www.npmjs.com/package/popper.js) -> [`@popperjs/core`](https://www.npmjs.com/package/@popperjs/core)
 
 The following figure compares the over time centrality ranking of [`popper.js`](https://www.npmjs.com/package/popper.js) and [`@popperjs/core`](https://www.npmjs.com/package/@popperjs/core).
 

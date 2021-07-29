@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/raven) -> [`@sentry/node`](https://www.npmjs.com/package/@sentry/node)
+# [`raven`](https://www.npmjs.com/package/raven) -> [`@sentry/node`](https://www.npmjs.com/package/@sentry/node)
 
 The following figure compares the over time centrality ranking of [`raven`](https://www.npmjs.com/package/raven) and [`@sentry/node`](https://www.npmjs.com/package/@sentry/node).
 

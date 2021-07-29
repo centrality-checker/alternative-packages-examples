@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/websocket) -> [`ws`](https://www.npmjs.com/package/ws)
+# [`websocket`](https://www.npmjs.com/package/websocket) -> [`ws`](https://www.npmjs.com/package/ws)
 
 The following figure compares the over time centrality ranking of [`websocket`](https://www.npmjs.com/package/websocket) and [`ws`](https://www.npmjs.com/package/ws).
 

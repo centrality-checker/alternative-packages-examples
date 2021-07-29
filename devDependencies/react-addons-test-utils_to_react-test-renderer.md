@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/react-addons-test-utils) -> [`react-test-renderer`](https://www.npmjs.com/package/react-test-renderer)
+# [`react-addons-test-utils`](https://www.npmjs.com/package/react-addons-test-utils) -> [`react-test-renderer`](https://www.npmjs.com/package/react-test-renderer)
 
 The following figure compares the over time centrality ranking of [`react-addons-test-utils`](https://www.npmjs.com/package/react-addons-test-utils) and [`react-test-renderer`](https://www.npmjs.com/package/react-test-renderer).
 

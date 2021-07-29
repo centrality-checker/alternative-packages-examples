@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/istanbul) -> [`nyc`](https://www.npmjs.com/package/nyc)
+# [`istanbul`](https://www.npmjs.com/package/istanbul) -> [`nyc`](https://www.npmjs.com/package/nyc)
 
 The following figure compares the over time centrality ranking of [`istanbul`](https://www.npmjs.com/package/istanbul) and [`nyc`](https://www.npmjs.com/package/nyc).
 

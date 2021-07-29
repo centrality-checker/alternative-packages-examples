@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/uglifyjs-webpack-plugin) -> [`terser-webpack-plugin`](https://www.npmjs.com/package/terser-webpack-plugin)
+# [`uglifyjs-webpack-plugin`](https://www.npmjs.com/package/uglifyjs-webpack-plugin) -> [`terser-webpack-plugin`](https://www.npmjs.com/package/terser-webpack-plugin)
 
 The following figure compares the over time centrality ranking of [`uglifyjs-webpack-plugin`](https://www.npmjs.com/package/uglifyjs-webpack-plugin) and [`terser-webpack-plugin`](https://www.npmjs.com/package/terser-webpack-plugin).
 

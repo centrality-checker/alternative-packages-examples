@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/mysql) -> [`mysql2`](https://www.npmjs.com/package/mysql2)
+# [`mysql`](https://www.npmjs.com/package/mysql) -> [`mysql2`](https://www.npmjs.com/package/mysql2)
 
 The following figure compares the over time centrality ranking of [`mysql`](https://www.npmjs.com/package/mysql) and [`mysql2`](https://www.npmjs.com/package/mysql2).
 

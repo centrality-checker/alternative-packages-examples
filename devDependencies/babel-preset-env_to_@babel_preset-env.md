@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/babel-preset-env) -> [`@babel/preset-env`](https://www.npmjs.com/package/@babel/preset-env)
+# [`babel-preset-env`](https://www.npmjs.com/package/babel-preset-env) -> [`@babel/preset-env`](https://www.npmjs.com/package/@babel/preset-env)
 
 The following figure compares the over time centrality ranking of [`babel-preset-env`](https://www.npmjs.com/package/babel-preset-env) and [`@babel/preset-env`](https://www.npmjs.com/package/@babel/preset-env).
 

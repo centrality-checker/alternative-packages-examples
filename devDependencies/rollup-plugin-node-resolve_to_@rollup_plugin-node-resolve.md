@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/rollup-plugin-node-resolve) -> [`@rollup/plugin-node-resolve`](https://www.npmjs.com/package/@rollup/plugin-node-resolve)
+# [`rollup-plugin-node-resolve`](https://www.npmjs.com/package/rollup-plugin-node-resolve) -> [`@rollup/plugin-node-resolve`](https://www.npmjs.com/package/@rollup/plugin-node-resolve)
 
 The following figure compares the over time centrality ranking of [`rollup-plugin-node-resolve`](https://www.npmjs.com/package/rollup-plugin-node-resolve) and [`@rollup/plugin-node-resolve`](https://www.npmjs.com/package/@rollup/plugin-node-resolve).
 

@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/mkdirp) -> [`fs-extra`](https://www.npmjs.com/package/fs-extra)
+# [`mkdirp`](https://www.npmjs.com/package/mkdirp) -> [`fs-extra`](https://www.npmjs.com/package/fs-extra)
 
 The following figure compares the over time centrality ranking of [`mkdirp`](https://www.npmjs.com/package/mkdirp) and [`fs-extra`](https://www.npmjs.com/package/fs-extra).
 

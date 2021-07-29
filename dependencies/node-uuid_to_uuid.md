@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/node-uuid) -> [`uuid`](https://www.npmjs.com/package/uuid)
+# [`node-uuid`](https://www.npmjs.com/package/node-uuid) -> [`uuid`](https://www.npmjs.com/package/uuid)
 
 The following figure compares the over time centrality ranking of [`node-uuid`](https://www.npmjs.com/package/node-uuid) and [`uuid`](https://www.npmjs.com/package/uuid).
 

@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/minimatch) -> [`micromatch`](https://www.npmjs.com/package/micromatch)
+# [`minimatch`](https://www.npmjs.com/package/minimatch) -> [`micromatch`](https://www.npmjs.com/package/micromatch)
 
 The following figure compares the over time centrality ranking of [`minimatch`](https://www.npmjs.com/package/minimatch) and [`micromatch`](https://www.npmjs.com/package/micromatch).
 

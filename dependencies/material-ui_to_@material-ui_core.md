@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/material-ui) -> [`@material-ui/core`](https://www.npmjs.com/package/@material-ui/core)
+# [`material-ui`](https://www.npmjs.com/package/material-ui) -> [`@material-ui/core`](https://www.npmjs.com/package/@material-ui/core)
 
 The following figure compares the over time centrality ranking of [`material-ui`](https://www.npmjs.com/package/material-ui) and [`@material-ui/core`](https://www.npmjs.com/package/@material-ui/core).
 

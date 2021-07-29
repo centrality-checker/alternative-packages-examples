@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/shortid) -> [`nanoid`](https://www.npmjs.com/package/nanoid)
+# [`shortid`](https://www.npmjs.com/package/shortid) -> [`nanoid`](https://www.npmjs.com/package/nanoid)
 
 The following figure compares the over time centrality ranking of [`shortid`](https://www.npmjs.com/package/shortid) and [`nanoid`](https://www.npmjs.com/package/nanoid).
 

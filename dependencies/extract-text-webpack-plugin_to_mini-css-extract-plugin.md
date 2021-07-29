@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/extract-text-webpack-plugin) -> [`mini-css-extract-plugin`](https://www.npmjs.com/package/mini-css-extract-plugin)
+# [`extract-text-webpack-plugin`](https://www.npmjs.com/package/extract-text-webpack-plugin) -> [`mini-css-extract-plugin`](https://www.npmjs.com/package/mini-css-extract-plugin)
 
 The following figure compares the over time centrality ranking of [`extract-text-webpack-plugin`](https://www.npmjs.com/package/extract-text-webpack-plugin) and [`mini-css-extract-plugin`](https://www.npmjs.com/package/mini-css-extract-plugin).
 

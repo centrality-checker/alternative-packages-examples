@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/raven-js) -> [`@sentry/browser`](https://www.npmjs.com/package/@sentry/browser)
+# [`raven-js`](https://www.npmjs.com/package/raven-js) -> [`@sentry/browser`](https://www.npmjs.com/package/@sentry/browser)
 
 The following figure compares the over time centrality ranking of [`raven-js`](https://www.npmjs.com/package/raven-js) and [`@sentry/browser`](https://www.npmjs.com/package/@sentry/browser).
 

@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/tns-core-modules) -> [`@nativescript/core`](https://www.npmjs.com/package/@nativescript/core)
+# [`tns-core-modules`](https://www.npmjs.com/package/tns-core-modules) -> [`@nativescript/core`](https://www.npmjs.com/package/@nativescript/core)
 
 The following figure compares the over time centrality ranking of [`tns-core-modules`](https://www.npmjs.com/package/tns-core-modules) and [`@nativescript/core`](https://www.npmjs.com/package/@nativescript/core).
 

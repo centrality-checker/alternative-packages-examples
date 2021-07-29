@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/underscore) -> [`lodash`](https://www.npmjs.com/package/lodash)
+# [`underscore`](https://www.npmjs.com/package/underscore) -> [`lodash`](https://www.npmjs.com/package/lodash)
 
 The following figure compares the over time centrality ranking of [`underscore`](https://www.npmjs.com/package/underscore) and [`lodash`](https://www.npmjs.com/package/lodash).
 

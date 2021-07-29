@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/rollup-pluginutils) -> [`@rollup/pluginutils`](https://www.npmjs.com/package/@rollup/pluginutils)
+# [`rollup-pluginutils`](https://www.npmjs.com/package/rollup-pluginutils) -> [`@rollup/pluginutils`](https://www.npmjs.com/package/@rollup/pluginutils)
 
 The following figure compares the over time centrality ranking of [`rollup-pluginutils`](https://www.npmjs.com/package/rollup-pluginutils) and [`@rollup/pluginutils`](https://www.npmjs.com/package/@rollup/pluginutils).
 

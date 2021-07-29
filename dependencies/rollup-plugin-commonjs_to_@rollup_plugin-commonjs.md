@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/rollup-plugin-commonjs) -> [`@rollup/plugin-commonjs`](https://www.npmjs.com/package/@rollup/plugin-commonjs)
+# [`rollup-plugin-commonjs`](https://www.npmjs.com/package/rollup-plugin-commonjs) -> [`@rollup/plugin-commonjs`](https://www.npmjs.com/package/@rollup/plugin-commonjs)
 
 The following figure compares the over time centrality ranking of [`rollup-plugin-commonjs`](https://www.npmjs.com/package/rollup-plugin-commonjs) and [`@rollup/plugin-commonjs`](https://www.npmjs.com/package/@rollup/plugin-commonjs).
 

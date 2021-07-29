@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/commander) -> [`yargs`](https://www.npmjs.com/package/yargs)
+# [`commander`](https://www.npmjs.com/package/commander) -> [`yargs`](https://www.npmjs.com/package/yargs)
 
 The following figure compares the over time centrality ranking of [`commander`](https://www.npmjs.com/package/commander) and [`yargs`](https://www.npmjs.com/package/yargs).
 

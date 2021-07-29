@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/rollup-plugin-replace) -> [`@rollup/plugin-replace`](https://www.npmjs.com/package/@rollup/plugin-replace)
+# [`rollup-plugin-replace`](https://www.npmjs.com/package/rollup-plugin-replace) -> [`@rollup/plugin-replace`](https://www.npmjs.com/package/@rollup/plugin-replace)
 
 The following figure compares the over time centrality ranking of [`rollup-plugin-replace`](https://www.npmjs.com/package/rollup-plugin-replace) and [`@rollup/plugin-replace`](https://www.npmjs.com/package/@rollup/plugin-replace).
 

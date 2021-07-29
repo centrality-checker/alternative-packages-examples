@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/mocha-typescript) -> [`@testdeck/mocha`](https://www.npmjs.com/package/@testdeck/mocha)
+# [`mocha-typescript`](https://www.npmjs.com/package/mocha-typescript) -> [`@testdeck/mocha`](https://www.npmjs.com/package/@testdeck/mocha)
 
 The following figure compares the over time centrality ranking of [`mocha-typescript`](https://www.npmjs.com/package/mocha-typescript) and [`@testdeck/mocha`](https://www.npmjs.com/package/@testdeck/mocha).
 

@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/rollup-plugin-babel) -> [`@rollup/plugin-babel`](https://www.npmjs.com/package/@rollup/plugin-babel)
+# [`rollup-plugin-babel`](https://www.npmjs.com/package/rollup-plugin-babel) -> [`@rollup/plugin-babel`](https://www.npmjs.com/package/@rollup/plugin-babel)
 
 The following figure compares the over time centrality ranking of [`rollup-plugin-babel`](https://www.npmjs.com/package/rollup-plugin-babel) and [`@rollup/plugin-babel`](https://www.npmjs.com/package/@rollup/plugin-babel).
 

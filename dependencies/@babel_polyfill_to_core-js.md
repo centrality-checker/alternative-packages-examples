@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/@babel/polyfill) -> [`core-js`](https://www.npmjs.com/package/core-js)
+# [`@babel/polyfill`](https://www.npmjs.com/package/@babel/polyfill) -> [`core-js`](https://www.npmjs.com/package/core-js)
 
 The following figure compares the over time centrality ranking of [`@babel/polyfill`](https://www.npmjs.com/package/@babel/polyfill) and [`core-js`](https://www.npmjs.com/package/core-js).
 

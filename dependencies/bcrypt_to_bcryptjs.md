@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/bcrypt) -> [`bcryptjs`](https://www.npmjs.com/package/bcryptjs)
+# [`bcrypt`](https://www.npmjs.com/package/bcrypt) -> [`bcryptjs`](https://www.npmjs.com/package/bcryptjs)
 
 The following figure compares the over time centrality ranking of [`bcrypt`](https://www.npmjs.com/package/bcrypt) and [`bcryptjs`](https://www.npmjs.com/package/bcryptjs).
 

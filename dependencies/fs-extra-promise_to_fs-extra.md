@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/fs-extra-promise) -> [`fs-extra`](https://www.npmjs.com/package/fs-extra)
+# [`fs-extra-promise`](https://www.npmjs.com/package/fs-extra-promise) -> [`fs-extra`](https://www.npmjs.com/package/fs-extra)
 
 The following figure compares the over time centrality ranking of [`fs-extra-promise`](https://www.npmjs.com/package/fs-extra-promise) and [`fs-extra`](https://www.npmjs.com/package/fs-extra).
 

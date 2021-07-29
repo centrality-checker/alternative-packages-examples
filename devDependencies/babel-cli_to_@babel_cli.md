@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/babel-cli) -> [`@babel/cli`](https://www.npmjs.com/package/@babel/cli)
+# [`babel-cli`](https://www.npmjs.com/package/babel-cli) -> [`@babel/cli`](https://www.npmjs.com/package/@babel/cli)
 
 The following figure compares the over time centrality ranking of [`babel-cli`](https://www.npmjs.com/package/babel-cli) and [`@babel/cli`](https://www.npmjs.com/package/@babel/cli).
 

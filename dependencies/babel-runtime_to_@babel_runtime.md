@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/babel-runtime) -> [`@babel/runtime`](https://www.npmjs.com/package/@babel/runtime)
+# [`babel-runtime`](https://www.npmjs.com/package/babel-runtime) -> [`@babel/runtime`](https://www.npmjs.com/package/@babel/runtime)
 
 The following figure compares the over time centrality ranking of [`babel-runtime`](https://www.npmjs.com/package/babel-runtime) and [`@babel/runtime`](https://www.npmjs.com/package/@babel/runtime).
 

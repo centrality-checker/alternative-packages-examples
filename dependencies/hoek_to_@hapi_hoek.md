@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/hoek) -> [`@hapi/hoek`](https://www.npmjs.com/package/@hapi/hoek)
+# [`hoek`](https://www.npmjs.com/package/hoek) -> [`@hapi/hoek`](https://www.npmjs.com/package/@hapi/hoek)
 
 The following figure compares the over time centrality ranking of [`hoek`](https://www.npmjs.com/package/hoek) and [`@hapi/hoek`](https://www.npmjs.com/package/@hapi/hoek).
 

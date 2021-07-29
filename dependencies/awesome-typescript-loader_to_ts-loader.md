@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/awesome-typescript-loader) -> [`ts-loader`](https://www.npmjs.com/package/ts-loader)
+# [`awesome-typescript-loader`](https://www.npmjs.com/package/awesome-typescript-loader) -> [`ts-loader`](https://www.npmjs.com/package/ts-loader)
 
 The following figure compares the over time centrality ranking of [`awesome-typescript-loader`](https://www.npmjs.com/package/awesome-typescript-loader) and [`ts-loader`](https://www.npmjs.com/package/ts-loader).
 

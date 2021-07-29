@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/highlight.js) -> [`prismjs`](https://www.npmjs.com/package/prismjs)
+# [`highlight.js`](https://www.npmjs.com/package/highlight.js) -> [`prismjs`](https://www.npmjs.com/package/prismjs)
 
 The following figure compares the over time centrality ranking of [`highlight.js`](https://www.npmjs.com/package/highlight.js) and [`prismjs`](https://www.npmjs.com/package/prismjs).
 

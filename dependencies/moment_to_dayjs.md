@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/moment) -> [`dayjs`](https://www.npmjs.com/package/dayjs)
+# [`moment`](https://www.npmjs.com/package/moment) -> [`dayjs`](https://www.npmjs.com/package/dayjs)
 
 The following figure compares the over time centrality ranking of [`moment`](https://www.npmjs.com/package/moment) and [`dayjs`](https://www.npmjs.com/package/dayjs).
 

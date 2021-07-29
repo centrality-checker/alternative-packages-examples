@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/babel-core) -> [`@babel/core`](https://www.npmjs.com/package/@babel/core)
+# [`babel-core`](https://www.npmjs.com/package/babel-core) -> [`@babel/core`](https://www.npmjs.com/package/@babel/core)
 
 The following figure compares the over time centrality ranking of [`babel-core`](https://www.npmjs.com/package/babel-core) and [`@babel/core`](https://www.npmjs.com/package/@babel/core).
 

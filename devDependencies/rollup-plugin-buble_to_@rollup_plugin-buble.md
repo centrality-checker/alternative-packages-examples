@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/rollup-plugin-buble) -> [`@rollup/plugin-buble`](https://www.npmjs.com/package/@rollup/plugin-buble)
+# [`rollup-plugin-buble`](https://www.npmjs.com/package/rollup-plugin-buble) -> [`@rollup/plugin-buble`](https://www.npmjs.com/package/@rollup/plugin-buble)
 
 The following figure compares the over time centrality ranking of [`rollup-plugin-buble`](https://www.npmjs.com/package/rollup-plugin-buble) and [`@rollup/plugin-buble`](https://www.npmjs.com/package/@rollup/plugin-buble).
 

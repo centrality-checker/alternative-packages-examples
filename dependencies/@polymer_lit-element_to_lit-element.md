@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/@polymer/lit-element) -> [`lit-element`](https://www.npmjs.com/package/lit-element)
+# [`@polymer/lit-element`](https://www.npmjs.com/package/@polymer/lit-element) -> [`lit-element`](https://www.npmjs.com/package/lit-element)
 
 The following figure compares the over time centrality ranking of [`@polymer/lit-element`](https://www.npmjs.com/package/@polymer/lit-element) and [`lit-element`](https://www.npmjs.com/package/lit-element).
 

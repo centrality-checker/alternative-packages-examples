@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/webpack-command) -> [`webpack-cli`](https://www.npmjs.com/package/webpack-cli)
+# [`webpack-command`](https://www.npmjs.com/package/webpack-command) -> [`webpack-cli`](https://www.npmjs.com/package/webpack-cli)
 
 The following figure compares the over time centrality ranking of [`webpack-command`](https://www.npmjs.com/package/webpack-command) and [`webpack-cli`](https://www.npmjs.com/package/webpack-cli).
 

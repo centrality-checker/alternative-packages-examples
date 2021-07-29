@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/grpc) -> [`@grpc/grpc-js`](https://www.npmjs.com/package/@grpc/grpc-js)
+# [`grpc`](https://www.npmjs.com/package/grpc) -> [`@grpc/grpc-js`](https://www.npmjs.com/package/@grpc/grpc-js)
 
 The following figure compares the over time centrality ranking of [`grpc`](https://www.npmjs.com/package/grpc) and [`@grpc/grpc-js`](https://www.npmjs.com/package/@grpc/grpc-js).
 

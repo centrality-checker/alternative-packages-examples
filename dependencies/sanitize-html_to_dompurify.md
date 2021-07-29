@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/sanitize-html) -> [`dompurify`](https://www.npmjs.com/package/dompurify)
+# [`sanitize-html`](https://www.npmjs.com/package/sanitize-html) -> [`dompurify`](https://www.npmjs.com/package/dompurify)
 
 The following figure compares the over time centrality ranking of [`sanitize-html`](https://www.npmjs.com/package/sanitize-html) and [`dompurify`](https://www.npmjs.com/package/dompurify).
 

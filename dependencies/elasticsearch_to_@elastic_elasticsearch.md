@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/elasticsearch) -> [`@elastic/elasticsearch`](https://www.npmjs.com/package/@elastic/elasticsearch)
+# [`elasticsearch`](https://www.npmjs.com/package/elasticsearch) -> [`@elastic/elasticsearch`](https://www.npmjs.com/package/@elastic/elasticsearch)
 
 The following figure compares the over time centrality ranking of [`elasticsearch`](https://www.npmjs.com/package/elasticsearch) and [`@elastic/elasticsearch`](https://www.npmjs.com/package/@elastic/elasticsearch).
 

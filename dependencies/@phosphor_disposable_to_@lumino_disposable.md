@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/@phosphor/disposable) -> [`@lumino/disposable`](https://www.npmjs.com/package/@lumino/disposable)
+# [`@phosphor/disposable`](https://www.npmjs.com/package/@phosphor/disposable) -> [`@lumino/disposable`](https://www.npmjs.com/package/@lumino/disposable)
 
 The following figure compares the over time centrality ranking of [`@phosphor/disposable`](https://www.npmjs.com/package/@phosphor/disposable) and [`@lumino/disposable`](https://www.npmjs.com/package/@lumino/disposable).
 

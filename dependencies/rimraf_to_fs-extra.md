@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/rimraf) -> [`fs-extra`](https://www.npmjs.com/package/fs-extra)
+# [`rimraf`](https://www.npmjs.com/package/rimraf) -> [`fs-extra`](https://www.npmjs.com/package/fs-extra)
 
 The following figure compares the over time centrality ranking of [`rimraf`](https://www.npmjs.com/package/rimraf) and [`fs-extra`](https://www.npmjs.com/package/fs-extra).
 

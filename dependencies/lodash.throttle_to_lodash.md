@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/lodash.throttle) -> [`lodash`](https://www.npmjs.com/package/lodash)
+# [`lodash.throttle`](https://www.npmjs.com/package/lodash.throttle) -> [`lodash`](https://www.npmjs.com/package/lodash)
 
 The following figure compares the over time centrality ranking of [`lodash.throttle`](https://www.npmjs.com/package/lodash.throttle) and [`lodash`](https://www.npmjs.com/package/lodash).
 

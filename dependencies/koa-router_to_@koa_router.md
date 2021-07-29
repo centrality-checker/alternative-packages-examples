@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/koa-router) -> [`@koa/router`](https://www.npmjs.com/package/@koa/router)
+# [`koa-router`](https://www.npmjs.com/package/koa-router) -> [`@koa/router`](https://www.npmjs.com/package/@koa/router)
 
 The following figure compares the over time centrality ranking of [`koa-router`](https://www.npmjs.com/package/koa-router) and [`@koa/router`](https://www.npmjs.com/package/@koa/router).
 

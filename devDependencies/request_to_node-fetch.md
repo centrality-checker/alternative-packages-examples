@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/request) -> [`node-fetch`](https://www.npmjs.com/package/node-fetch)
+# [`request`](https://www.npmjs.com/package/request) -> [`node-fetch`](https://www.npmjs.com/package/node-fetch)
 
 The following figure compares the over time centrality ranking of [`request`](https://www.npmjs.com/package/request) and [`node-fetch`](https://www.npmjs.com/package/node-fetch).
 

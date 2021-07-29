@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/opn) -> [`open`](https://www.npmjs.com/package/open)
+# [`opn`](https://www.npmjs.com/package/opn) -> [`open`](https://www.npmjs.com/package/open)
 
 The following figure compares the over time centrality ranking of [`opn`](https://www.npmjs.com/package/opn) and [`open`](https://www.npmjs.com/package/open).
 

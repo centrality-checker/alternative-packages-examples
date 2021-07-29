@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/request) -> [`axios`](https://www.npmjs.com/package/axios)
+# [`request`](https://www.npmjs.com/package/request) -> [`axios`](https://www.npmjs.com/package/axios)
 
 The following figure compares the over time centrality ranking of [`request`](https://www.npmjs.com/package/request) and [`axios`](https://www.npmjs.com/package/axios).
 

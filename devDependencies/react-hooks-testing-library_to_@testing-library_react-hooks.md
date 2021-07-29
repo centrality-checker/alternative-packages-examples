@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/react-hooks-testing-library) -> [`@testing-library/react-hooks`](https://www.npmjs.com/package/@testing-library/react-hooks)
+# [`react-hooks-testing-library`](https://www.npmjs.com/package/react-hooks-testing-library) -> [`@testing-library/react-hooks`](https://www.npmjs.com/package/@testing-library/react-hooks)
 
 The following figure compares the over time centrality ranking of [`react-hooks-testing-library`](https://www.npmjs.com/package/react-hooks-testing-library) and [`@testing-library/react-hooks`](https://www.npmjs.com/package/@testing-library/react-hooks).
 

@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/rimraf) -> [`del-cli`](https://www.npmjs.com/package/del-cli)
+# [`rimraf`](https://www.npmjs.com/package/rimraf) -> [`del-cli`](https://www.npmjs.com/package/del-cli)
 
 The following figure compares the over time centrality ranking of [`rimraf`](https://www.npmjs.com/package/rimraf) and [`del-cli`](https://www.npmjs.com/package/del-cli).
 

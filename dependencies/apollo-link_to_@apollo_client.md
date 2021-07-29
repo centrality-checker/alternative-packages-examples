@@ -1,4 +1,4 @@
-# [`isomorphic-fetch`](https://www.npmjs.com/package/apollo-link) -> [`@apollo/client`](https://www.npmjs.com/package/@apollo/client)
+# [`apollo-link`](https://www.npmjs.com/package/apollo-link) -> [`@apollo/client`](https://www.npmjs.com/package/@apollo/client)
 
 The following figure compares the over time centrality ranking of [`apollo-link`](https://www.npmjs.com/package/apollo-link) and [`@apollo/client`](https://www.npmjs.com/package/@apollo/client).
 
